@@ -1,4 +1,7 @@
-## Hi there 👋
+👋 Hi, I’m Rutika Shelar
+
+🎓 B.Tech in Computer Science & Engineering
+💻 Aspiring Software Developer | Android & Java Enthusiast
 
 <!--
 **Rutika-Shelar/Rutika-Shelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
